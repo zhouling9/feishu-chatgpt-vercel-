@@ -2,9 +2,9 @@
   "name": "feishu-chatgpt-bot",
   "version": "1.0.0",
   "description": "飞书接入 ChatGPT 的中间服务，用 Vercel 部署",
-  "main": "api/feishu.js",
+  "main": "feishu.js",
   "scripts": {
-    "start": "node api/feishu.js"
+    "start": "node feishu.js"
   },
   "dependencies": {
     "node-fetch": "^2.6.7"
