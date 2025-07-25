@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/feishu.js", "use": "@vercel/node" }
+  ]
+}
